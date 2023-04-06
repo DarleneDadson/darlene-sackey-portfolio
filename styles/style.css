@@ -96,12 +96,12 @@ html {
 body {
   font-family: var(--body-typeface);
   color: var(--primary-text-color);
-  background-color: #ff82da;
-  background-image: linear-gradient(0deg, #ff82da 0%, #ffbcfd 50%, #ff8aad 100%);
+  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
+
 
 /* The ::selection CSS pseudo-element applies styles to the part of a document that has been highlighted by the user (such as clicking and dragging the mouse across text). */
 
@@ -159,7 +159,7 @@ h2 {
   font-size: 2.25rem;
   font-family: var(--heading-typeface);
   margin-bottom: 1rem;
-  color: var(--accent-color);
+  color: black(--accent-color);
 }
 
 h3 {
