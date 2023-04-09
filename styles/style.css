@@ -96,7 +96,11 @@ html {
 body {
   font-family: var(--body-typeface);
   color: var(--primary-text-color);
-  background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+  /* Created with https://www.css-gradient.com */
+background: #FFD501;
+background: -webkit-radial-gradient(center, #FFD501, #FF5722);
+background: -moz-radial-gradient(center, #FFD501, #FF5722);
+background: radial-gradient(ellipse at center, #FFD501, #FF5722);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
