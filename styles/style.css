@@ -162,8 +162,6 @@ h2 {
   font-family: var(--heading-typeface);
   margin-bottom: 1rem;
   color: black(--accent-color);
-  font-family: 'Abel', sans-serif;
-  
 }
 
 h3 {
