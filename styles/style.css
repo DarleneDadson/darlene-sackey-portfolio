@@ -781,6 +781,8 @@ a.sub-navigation-link:hover {background: var(--accent-color); color: var(--flora
   .footer-item-1 {
     grid-column: 1 / 2;
     grid-row: 1 / 2;
+    font-family: 'Abel', sans-serif;
+    font-size: 2em;
   }
 
   .about-item-2 {
