@@ -807,7 +807,7 @@ a.sub-navigation-link:hover {background: var(--accent-color); color: var(--flora
     grid-column: 3 / 4;
     font-family: 'Abel', sans-serif;
     font-size: 2em;
-    font-size: medium;
+    
   }
 
   .about-item-4 {
